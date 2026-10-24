@@ -1,0 +1,1 @@
+{ "name": "agent-panel", "version": "0.1.0", "description": "コンテキスト使用率・残りの使用量・使ったスキル・サブエージェントを表示するパネルと、入力欄上のバー", "types": "./types/index.d.ts" }

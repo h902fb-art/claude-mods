@@ -1,0 +1,11 @@
+{
+  "name": "claude-mods",
+  "owner": { "name": "h902fb-art" },
+  "plugins": [
+    {
+      "name": "agent-panel",
+      "source": "./agent-panel",
+      "description": "コンテキスト使用率・残りの使用量・使ったスキル・サブエージェントを表示するパネルと、入力欄上のバー"
+    }
+  ]
+}
